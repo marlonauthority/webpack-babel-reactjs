@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
-</h1>
+
 
 <h3 align="center">
   Desafio 4: Introdução ao React
@@ -100,9 +98,6 @@ posts.map(post => <Post key={post.id} data={post} />);
 data.comments.map(comment => <Comment key={comment.id} data={comment} />);
 ```
 
-## 📅 Entrega
-
-Esse desafio **não precisa ser entregue** e não receberá correção, mas você pode ver o resultado do [código do desafio aqui](https://github.com/Rocketseat/bootcamp-gostack-desafio-04). Após concluir o desafio, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
 
 ## :memo: Licença
 
